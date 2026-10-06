@@ -4,6 +4,10 @@ This is a simple business card I made on EasyEDA, I think it looks really nice!
 The feature I'm most excited about is the NFC chip, sounds like fun and very interesting!
 This business card actually contains my details so I may or may not use it to try get a j*b
 
+<h2>Features</h2>
+Contains NFC card that should work
+Has led that lights up when you tap the NFC card to confirm that it works
+
 <h2>Notes for my funding request</h2>
 Now I know HASL is cheaper, but I really want a black pcb with ENIG. It would look so premium!!!
 Rn it costs around 27, but I'll try my best to get a buncha discount coupons and reduce the price :)
