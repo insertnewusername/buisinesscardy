@@ -5,7 +5,7 @@ The feature I'm most excited about is the NFC chip, sounds like fun and very int
 This business card actually contains my details so I may or may not use it to try get a j*b
 
 <h2>Features</h2>
-Contains NFC card that should work
+Contains NFC card that should work <br>
 Has led that lights up when you tap the NFC card to confirm that it works
 
 <h2>Notes for my funding request</h2>
